@@ -89,11 +89,11 @@ const EXTRA_FEES = [
 ];
 
 const IMAGES = [
-  "https://freeimage.host/i/BZAJhE7",
-  "https://freeimage.host/i/BZAJVQ2",
-  "https://freeimage.host/i/BZAJXBS",
-  "https://freeimage.host/i/BZAJMhl",
-  "https://freeimage.host/i/BZAJekb"
+  "https://iili.io/BZAJhE7.jpg",
+  "https://iili.io/BZAJVQ2.jpg",
+  "https://iili.io/BZAJXBS.jpg",
+  "https://iili.io/BZAJMhl.jpg",
+  "https://iili.io/BZAJekb.jpg"
 ];
 
 const SectionTitle = ({ children, icon: Icon }: { children: React.ReactNode, icon?: any }) => (
